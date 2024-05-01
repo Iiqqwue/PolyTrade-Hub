@@ -9,7 +9,7 @@ user2 = User("Andromeda", 12312, "par234234@gmail.com", "Abdurozik")
 print(user2.name)
 
 
-
 class announcement:
-    def __init__(self):
-        self.
+    def __init__(self, price):
+        self.price = price
+
